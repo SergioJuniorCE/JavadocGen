@@ -1,2 +1,2 @@
 # JavadocGen
-Un generador
+Un generador de Javador. El titulo lo dice.
